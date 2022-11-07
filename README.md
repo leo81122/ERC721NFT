@@ -4,7 +4,7 @@ To build and mint an ERC721 NFT
 
 ---
 
-| contrace address:
+| contract address:
 ```bash
 https://goerli.etherscan.io/tx/0xa41cd44f4aed6c9bd994f86c7712b53fe2ea0f6d188f6a921f6059dd29d795f2
 ```
